@@ -1,6 +1,6 @@
 #Email Decoder for Cloudflare encrypted emails
 import argparse
-import ced.lib.processing as processing
+import netflixaccountscrapers.lib.processing as processing
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Program to decode email \
